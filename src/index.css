@@ -282,7 +282,6 @@ line-height: 25px;
   }
   .first {
 position: absolute;
- width:300px;
     background: rgb(255, 153, 55);
     top:0;
   left:0;
@@ -293,11 +292,7 @@ position: absolute;
     transition: 0.7s;
   }
   .second{
-  width:300px;
-  top:0;
-  left:0;
-  right:0;
-  bottom:0;
+
 margin-bottom: 50px;
   }
   
