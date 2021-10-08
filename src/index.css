@@ -282,8 +282,7 @@ line-height: 25px;
   }
   .first {
 position: absolute;
-    width: 100%;
-    height: auto;
+ width:300px;
     background: rgb(255, 153, 55);
     top:0;
   left:0;
