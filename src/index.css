@@ -294,7 +294,7 @@ position: absolute;
     transition: 0.7s;
   }
   .second{
-  position:absolute;
+  width:300px;
   top:0;
   left:0;
   right:0;
