@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/bzbtech/static/css/main.36fb344d.chunk.css",
+    "main.js": "/bzbtech/static/js/main.2b4889ce.chunk.js",
+    "main.js.map": "/bzbtech/static/js/main.2b4889ce.chunk.js.map",
+    "runtime-main.js": "/bzbtech/static/js/runtime-main.91c55abf.js",
+    "runtime-main.js.map": "/bzbtech/static/js/runtime-main.91c55abf.js.map",
+    "static/css/2.818011ed.chunk.css": "/bzbtech/static/css/2.818011ed.chunk.css",
+    "static/js/2.2e56f34b.chunk.js": "/bzbtech/static/js/2.2e56f34b.chunk.js",
+    "static/js/2.2e56f34b.chunk.js.map": "/bzbtech/static/js/2.2e56f34b.chunk.js.map",
+    "index.html": "/bzbtech/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/bzbtech/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.36fb344d.chunk.css.map": "/bzbtech/static/css/main.36fb344d.chunk.css.map",
+    "static/js/2.2e56f34b.chunk.js.LICENSE.txt": "/bzbtech/static/js/2.2e56f34b.chunk.js.LICENSE.txt",
+    "static/media/about-left.cc591af8.png": "/bzbtech/static/media/about-left.cc591af8.png",
+    "static/media/boy.a285f63c.png": "/bzbtech/static/media/boy.a285f63c.png",
+    "static/media/index.css": "/bzbtech/static/media/roundbg.8924b52a.png",
+    "static/media/gal1.a4f887bf.png": "/bzbtech/static/media/gal1.a4f887bf.png",
+    "static/media/gal2.dd1c8464.png": "/bzbtech/static/media/gal2.dd1c8464.png",
+    "static/media/gal3.1ff86449.png": "/bzbtech/static/media/gal3.1ff86449.png",
+    "static/media/gal4.e25ef9b1.png": "/bzbtech/static/media/gal4.e25ef9b1.png",
+    "static/media/gal5.6475dcc7.png": "/bzbtech/static/media/gal5.6475dcc7.png",
+    "static/media/gal6.74004596.png": "/bzbtech/static/media/gal6.74004596.png",
+    "static/media/gal7.d75297bc.png": "/bzbtech/static/media/gal7.d75297bc.png",
+    "static/media/gal8.7b146c0c.png": "/bzbtech/static/media/gal8.7b146c0c.png",
+    "static/media/girl.a71ec6db.png": "/bzbtech/static/media/girl.a71ec6db.png",
+    "static/media/girl2.6c91d780.png": "/bzbtech/static/media/girl2.6c91d780.png",
+    "static/media/header-right.8b175c7c.png": "/bzbtech/static/media/header-right.8b175c7c.png",
+    "static/media/logo.10dd1865.png": "/bzbtech/static/media/logo.10dd1865.png",
+    "static/media/portfolio-right1.8da400c3.jpg": "/bzbtech/static/media/portfolio-right1.8da400c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91c55abf.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.2e56f34b.chunk.js",
+    "static/css/main.36fb344d.chunk.css",
+    "static/js/main.2b4889ce.chunk.js"
+  ]
+}
