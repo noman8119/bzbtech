@@ -1,1 +1,6 @@
-
+.first{
+position:absolute;
+}
+.second{
+position:none!important;
+}
