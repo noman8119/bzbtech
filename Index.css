@@ -1,6 +1,6 @@
 .first{
-position:absolute;
+position:absolute!important;
 }
 .second{
-position:none!important;
+position:static!important;
 }
